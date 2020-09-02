@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "Register";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+}
+
+
+
+<div class="container">
+
+    <form id="form" class="form">
+        <h3>Register with us</h3>
+        <label for="firstname">First Name</label>
+        <input type="text" id="firstname" name="firstname" placeholder="Enter First Name" />
+        <label for="lastname">Last Name</label>
+        <input type="text" id="lastname" name="lastname" placeholder="Enter Last Name" />
+        <label for="username">Username</label>
+        <input type="text" id="username" name="username" placeholder="Enter Username" />
+        <label for="password">Password (6 characters minimum)</label>
+        <input type="password" id="password" name="password" minlength="6" placeholder="Enter Password" required />
+        <label for="password">Confirm Password</label>
+        <input type="password" id="password" name="password" minlength="6" placeholder="Enter Password" required />
+        <button class="button" type="submit">Submit</button>
+    </form>
+
+</div>
+

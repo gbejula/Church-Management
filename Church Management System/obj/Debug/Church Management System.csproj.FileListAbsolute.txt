@@ -1,0 +1,79 @@
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\Church Management System.dll.config
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\Church Management System.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\Church Management System.pdb
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\csc.exe
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\csc.exe.config
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\csc.rsp
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\csi.exe
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\csi.exe.config
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\csi.rsp
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\Microsoft.Managed.Core.targets
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\System.AppContext.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\System.Collections.Immutable.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\System.Console.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\System.Globalization.Calendars.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\System.IO.Compression.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\System.IO.FileSystem.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\System.Net.Http.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\System.Net.Sockets.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\System.Reflection.Metadata.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\System.ValueTuple.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\System.Xml.XmlDocument.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\System.Xml.XPath.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\vbc.exe
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\vbc.exe.config
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\vbc.rsp
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\VBCSCompiler.exe
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\roslyn\VBCSCompiler.exe.config
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\Antlr3.Runtime.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\Microsoft.Web.Infrastructure.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\Newtonsoft.Json.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\System.Web.Helpers.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\System.Web.Mvc.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\System.Web.Optimization.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\System.Web.Razor.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\System.Web.WebPages.Deployment.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\System.Web.WebPages.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\System.Web.WebPages.Razor.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\WebGrease.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\System.Web.Helpers.xml
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\System.Web.Mvc.xml
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\System.Web.Optimization.xml
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\System.Web.Razor.xml
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\System.Web.WebPages.xml
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\System.Web.WebPages.Deployment.xml
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\System.Web.WebPages.Razor.xml
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\Newtonsoft.Json.xml
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\Antlr3.Runtime.pdb
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\obj\Debug\Church Management System.csprojAssemblyReference.cache
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\obj\Debug\Church Management System.csproj.CoreCompileInputs.cache
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\obj\Debug\Church Management System.csproj.CopyComplete
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\obj\Debug\Church Management System.dll
+C:\TheHatch\ASP.NET\Church Management System\Church Management System\obj\Debug\Church Management System.pdb
